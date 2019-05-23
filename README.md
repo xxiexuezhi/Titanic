@@ -3,6 +3,8 @@
 My first machine learning project on Kaggle. https://www.kaggle.com/c/titanic
 
 The code is runned on Jupter notebook (.ipynb).
+Titanic_follow_by_Kannel.ipynb is the model file including serveral visulizations. It is trained on train.csv and tested on test.csv. The gender.csv is the prediction file submitted to Kaggle for the competition test. 
+
 
 Competition Description
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history.  On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
